@@ -1,0 +1,3 @@
+baseURL = 'https://hesed-server.web.app/'
+languageCode = 'en-gb'
+title = 'Hesed Server'
