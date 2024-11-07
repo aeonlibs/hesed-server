@@ -14,7 +14,7 @@ blessed and have an increased sense of direction after this read.
 
 There is nothing you and I can do for God to make Him love us more or less. He
 demonstrated His greatest love to us, even in this: He sent His son, Jesus to die
-on our behalf even when we were still sinners (**_Romans 5:8_**). Today, we are saved,
+on our behalf even when we were still sinners (**Romans 5:8**). Today, we are saved,
 we have eternal life and are the righteousness of God independent of our works.
 Whatever we do is only a response to the love we have received from our Father.
 
@@ -35,7 +35,7 @@ Colossians 3 has for us.
 
 ## A Response To Love
 
-In **_Romans 5:1_**, Paul shares with us that since we have been justified by faith,
+In **Romans 5:1**, Paul shares with us that since we have been justified by faith,
 we have peace with God through our Lord Jesus Christ.
 
 Now that we have this peace, **Colossians 3:15** - _"Let the peace of Christ be the
@@ -89,7 +89,7 @@ Christ sake, has forgiven us.
 
 Now, we will conclude with love.
 
-In **_Colossians 3:14_**, the Bible teaches us to _"wrap ourselves in love"_. How
+In **Colossians 3:14**, the Bible teaches us to _"wrap ourselves in love"_. How
 can we wrap ourselves in love? By seeking the best for others. Love is what binds
 us together. All believers are equal before the Lord and the love that the Lord
 showed us is one that is unselfish, one that does not expect anything in return.
@@ -105,7 +105,7 @@ actually serving.
 ## Meditation
 
 It is easy to say, "Wow, thank you for sharing these words" or "What is this person
-saying, can you break it down?". The scripture tells us in **_Hebrews 8:11_**
+saying, can you break it down?". The scripture tells us in **Hebrews 8:11**
 concerning the new covenant:
 
 {{< accordion "Hebrews 8:11" >}}
