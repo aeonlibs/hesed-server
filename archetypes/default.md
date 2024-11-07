@@ -1,8 +1,8 @@
 +++
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-date: {{ .Date }}
-toc: false
-featured_image: ""
-summary: ""
-tags: [""]
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+date = {{ .Date }}
+toc = false
+featured_image = ""
+summary = ""
+tags = [""]
 +++
