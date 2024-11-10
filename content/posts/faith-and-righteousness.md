@@ -55,12 +55,12 @@ and in his faithfulness.
 {{< /accordion >}}
 
 Does faith lead to humility? It seems people who are self-righteous breed pride
-within themselves, as a result, his soul is not straigh or right within him. If
+within themselves, as a result, his soul is not straight or right within him. If
 the Bible is contrasting self-righteousness and the righteousness of God, could
 it be that those who are righteous by faith are humble? Faith does not deny the
 reality of a situation but chooses to believe in someone or something with a
 stronger foundation; that which does not fail. The righteousness of God brings
-us to the end of ourselves and makes us realise our need or God and leads us to
+us to the end of ourselves and makes us realise our need for God and leads us to
 trust Him and have confidence in His Word that He has made us righteous by His
 Son’s finished work. We cannot make ourselves righteous, but believing that we
 are justified by faith, that’s the righteousness that comes from God— and this
