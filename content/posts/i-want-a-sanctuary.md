@@ -48,16 +48,17 @@ are a few pointers:
 - You suffer alone.
 - You can't ask for prayer.
 - You cannot share when you have moments of weakness.
-- Share testimonies to encourage one another.
+- Cannot share testimonies to encourage one another.
 - Life decisions are made without carrying others along. What type of decisions?
   - Moving to a new place.
   - Started a dating relationship.
   - Taking on a career.
   - Things related to academics.
   - Cutting people off from your life.
+  - Essentially life decisions.
 
 It might sound like that will make others intrusive in your life. Trust me, many
-have fallen and are struggling because they didn't have this environment.
+have fallen and are struggling because they didn't have this kind of environment.
 
 ## Conclusion
 
@@ -66,3 +67,7 @@ It is my prayer that our cell groups, fellowships be made into sanctuary. Again,
 and support and strengthen you from Zion."* Do not neglect the gathering and the
 advantage you have being in a community. One may chase a 1000, but two will put
 10,000 to flight.
+
+---
+
+- All scripture references are taken from The Amplified Bible.
