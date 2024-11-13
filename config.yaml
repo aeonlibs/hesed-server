@@ -177,6 +177,7 @@ params:
   autoDarkMode: true
 
   share:
+    weibo: false
     twitter: true
     facebook: true
     copyLinkText: true
