@@ -60,6 +60,11 @@ are a few pointers:
 It might sound like that will make others intrusive in your life. Trust me, many
 have fallen and are struggling because they didn't have this kind of environment.
 
+## A Note To Fellowship Leaders
+
+**Proverbs 27:23** -- *"Be diligent to know the condition of your flocks, And pay
+attention to your herds;"*
+
 ## Conclusion
 
 It is my prayer that our cell groups, fellowships be made into sanctuary. Again,
