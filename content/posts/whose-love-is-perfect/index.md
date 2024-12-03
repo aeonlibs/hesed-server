@@ -12,7 +12,10 @@ by Joseph Prince.
 
 {{< quote-center >}}
 For God so loved the world that He gave His only begotten Son, that whoever believes
-in Him should not perish but have everlasting life. -- **John 3:16**
+in Him should not perish but have everlasting life.
+
+{{< align center "**John 3:16**" >}}
+
 {{< /quote-center >}}
 
 When I was the president of my youth ministry, I used to preach hard and strong
