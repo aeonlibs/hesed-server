@@ -2,7 +2,7 @@
 title = "Enter God's Rest"
 date = 2024-09-22T12:21:05Z
 toc = false
-featured_image = "https://conformtojesus.com/wp-content/uploads/2021/03/pexels-photo-6271495.jpeg?w=1400"
+featured_image = "feature.jpeg"
 summary = "You will keep Him in perfect peace, whose mind is stayed on you"
 tags = ["rest", "peace", "faith", "word"]
 +++

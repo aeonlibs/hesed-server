@@ -2,7 +2,7 @@
 title = 'Faith and Righteousness'
 date = 2024-09-22T11:57:35Z
 toc = false
-featured_image = "https://i.swncdn.com/media/700w/via/11925-13620-bible-title-habakkuk-sparrowstock.jpg"
+featured_image = "feature.jpg"
 summary = "The righteous by faith shall live"
 tags = ["righteous", "faith", "life"]
 +++

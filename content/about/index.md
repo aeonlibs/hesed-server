@@ -7,7 +7,7 @@ type = "page"
 
 ## What is Hesed Server?
 
-![A note from your heavenly Father](https://images.pexels.com/photos/3826670/pexels-photo-3826670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![A note from your heavenly Father](feature.jpeg)
 
 **Hesed** is the Hebrew word for love. It is so rich that it cannot be explained
 with one word.

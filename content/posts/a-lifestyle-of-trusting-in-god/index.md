@@ -2,7 +2,7 @@
 title = 'A Lifestyle of Trusting in God'
 date = 2024-06-15T08:00:22Z
 draft = false
-featured_image = "https://images.pexels.com/photos/631986/pexels-photo-631986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+featured_image = "feature.jpeg"
 summary = "Instructions from Colossians 3"
 tags = [ "trust", "love", "obedience", "meditation" ]
 +++

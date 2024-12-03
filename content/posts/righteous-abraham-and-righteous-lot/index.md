@@ -2,7 +2,7 @@
 title = 'Righteous Abraham and Righteous Lot'
 date = 2024-09-23T13:01:30Z
 toc = false
-featured_image = "https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+featured_image = "feature.jpeg"
 summary = "Why a personal relationship is important"
 tags = ["relationship", "righteousness"]
 +++
