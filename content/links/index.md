@@ -16,6 +16,10 @@ layout = "links"
 
 {{< link-card link="https://youtube.com/playlist?list=PLMZLJsuH1CQuMMUwR4Y_rKmyrMbpqSaHR&si=NfTyP13DrRbE8D6b" name="How To Read The Bible" desc="Learn how to get the most out of reading God’s Word for yourself" >}}
 
+{{< link-card link="https://youtube.com/playlist?list=PLZPhYwLQ01gKYMiFuCmVWqBWjKpp6skML&feature=shared" name="50 Days of Discipleship With Sir Elorm" desc="Be discipled in the ways of God" >}}
+
+{{< link-card link="https://youtube.com/playlist?list=PLZPhYwLQ01gLij8nq2MNnaGx96QWxLoxX&feature=shared" name="50 Days of Discipleship With Sir Elorm - Extra" desc="Miscellaneous convervations on discipleship including Q&A sessions" >}}
+
 {{< hr "Books" >}}
 
 {{< link-card link="books/power-of-right-believing/book.pdf" name="The Power of Right Believing" desc="7 Keys to Freedom from Fear, Guilt, and Addiction" >}}
