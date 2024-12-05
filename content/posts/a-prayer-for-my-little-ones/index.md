@@ -39,7 +39,8 @@ Be humble and learn.
 ## The Prayer
 
 Whether one is a parent or has the privilege of nurturing God's children, you can
-pray this over them while you intercede:
+pray this over them while you intercede. If you are the one who is being nurtured
+into full sonship, you can pray this over yourself as well by personalising the prayer:
 
 _Give **[Name of person]** a heart that loves instruction and yields to discipline.
 Let not **[Name of person]** heart despise correction and reproof. Give **[Name
