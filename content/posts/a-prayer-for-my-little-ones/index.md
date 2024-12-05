@@ -26,7 +26,7 @@ teach them. When Jesus saw the multitudes, He did not see people who do not know
 what they are about and said in His heart: "Look at this people doing whatever
 they want". No! The scriptures say, "He had compassion on them and saw them as
 sheep without a shepherd" (Matthew 9:36). A shepherd knows the condition of their flocks and
-diligent seeks to understand the state of their herds (Proverbs 27:23).
+diligently seeks to understand the state of their herds (Proverbs 27:23).
 
 For the children still maturing in the faith, if you are reading this, understand
 that you need to be taught so that you can deal fully as mature sons. As long as
