@@ -16,22 +16,18 @@ layout = "links"
 
 {{< link-card link="https://youtube.com/playlist?list=PLMZLJsuH1CQuMMUwR4Y_rKmyrMbpqSaHR&si=NfTyP13DrRbE8D6b" name="How To Read The Bible" desc="Learn how to get the most out of reading God’s Word for yourself" >}}
 
-{{< link-card link="https://youtube.com/playlist?list=PLZPhYwLQ01gKYMiFuCmVWqBWjKpp6skML&feature=shared" name="50 Days of Discipleship With Sir Elorm" desc="Be discipled in the ways of God" >}}
-
-{{< link-card link="https://youtube.com/playlist?list=PLZPhYwLQ01gLij8nq2MNnaGx96QWxLoxX&feature=shared" name="50 Days of Discipleship With Sir Elorm - Extra" desc="Miscellaneous convervations on discipleship including Q&A sessions" >}}
-
 {{< hr "Books" >}}
 
-{{< link-card link="books/power-of-right-believing/book.pdf" name="The Power of Right Believing" desc="7 Keys to Freedom from Fear, Guilt, and Addiction" >}}
+{{< link-card link="books/power-of-right-believing.pdf" name="The Power of Right Believing" desc="7 Keys to Freedom from Fear, Guilt, and Addiction" >}}
 
-{{< link-card link="books/stress-less-sleep-better/book.pdf" name="Stress Less, Sleep Better GuideBook" desc="Learn powerful truths that will help you to defeat stress and overcome insomnia" >}}
+{{< link-card link="books/stress-less-sleep-better.pdf" name="Stress Less, Sleep Better GuideBook" desc="Learn powerful truths that will help you to defeat stress and overcome insomnia" >}}
 
-{{< link-card link="books/all-of-grace/book.pdf" name="All of Grace" desc="An Earnest Word with Those Who Are Seeking Salvation by the Lord Jesus Christ" >}}
+{{< link-card link="books/all-of-grace.pdf" name="All of Grace" desc="An Earnest Word with Those Who Are Seeking Salvation by the Lord Jesus Christ" >}}
 
-{{< link-card link="books/destined-to-reign/book.pdf" name="Destined To Reign" desc="The secret to effortless success, wholeness and victorious living" >}}
+{{< link-card link="books/destined-to-reign.pdf" name="Destined To Reign" desc="The secret to effortless success, wholeness and victorious living" >}}
 
-{{< link-card link="books/health-and-wholeness-communion/book.pdf" name="Health & Wholeness Through The Holy Communion" desc="The way to life and health" >}}
+{{< link-card link="books/health-and-wholeness-communion.pdf" name="Health & Wholeness Through The Holy Communion" desc="The way to life and health" >}}
 
-{{< link-card link="books/live-the-let-go-life/book.pdf" name="Live The Let-Go Live" desc="Breaking free from stress, worry and anxiety" >}}
+{{< link-card link="books/live-the-let-go-life.pdf" name="Live The Let-Go Live" desc="Breaking free from stress, worry and anxiety" >}}
 
-{{< link-card link="books/unmerited-favour/book.pdf" name="Unmerited Favour" desc="Receive your supernatural advantage for a successful life today" >}}
+{{< link-card link="books/unmerited-favour.pdf" name="Unmerited Favour" desc="Receive your supernatural advantage for a successful life today" >}}
