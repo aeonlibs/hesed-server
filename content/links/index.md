@@ -18,6 +18,8 @@ layout = "links"
 
 {{< hr "Books" >}}
 
+{{< link-card link="books/now-that-you-are-born-again.pdf" name="Now That You Are Born Again" desc="Begin your journey as a child of God" >}}
+
 {{< link-card link="books/power-of-right-believing.pdf" name="The Power of Right Believing" desc="7 Keys to Freedom from Fear, Guilt, and Addiction" >}}
 
 {{< link-card link="books/stress-less-sleep-better.pdf" name="Stress Less, Sleep Better GuideBook" desc="Learn powerful truths that will help you to defeat stress and overcome insomnia" >}}
