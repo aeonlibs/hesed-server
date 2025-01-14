@@ -128,7 +128,7 @@ params:
   publicCDN: "" # e.g. https://cdn.jsdelivr.net/gh/{{user}}/{{repo}}@latest/
 
   # Display title and description at the top of the page, use .Site.Title and .Site.Params.Description
-  topTitle: true
+  topTitle: false
 
   # Create a Announcement section at the top of the home page
   announcement:
