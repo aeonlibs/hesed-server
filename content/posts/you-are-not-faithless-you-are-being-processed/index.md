@@ -1,9 +1,8 @@
 +++
-title = "You Are Not Faithless, You're Being Processed."
-date = 2025-01-14T11:17:22Z
+title = "You Are Not Faithless, You're Being Processed"
+date = 2025-01-14T15:21:43Z
 toc = false
-draft = false
-featured_image = "feature.jpg"
+featured_image = "featured.jpg"
 summary = "Do not lose heart"
 tags = [ "trust", "hope", "faith", "process" ]
 +++
