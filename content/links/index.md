@@ -4,6 +4,10 @@ date = 2024-11-07T10:03:00Z
 layout = "links"
 +++
 
+{{< hr "Podcasts" >}}
+
+{{< link-card link="https://open.spotify.com/show/7pKvgloSHGj3xzNoBiOpyK?si=yG2Ai3a3Sy-57BGiAR0Kbw" name="Conversations About God" desc="Mini podcast episodes on different topics concerning God" >}}
+
 {{< hr "YouTube Channels" >}}
 
 {{< link-card link="https://youtube.com/@JosephPrince" name="Joseph Prince" desc="Reaching the world with the Gospel of Grace" >}}
