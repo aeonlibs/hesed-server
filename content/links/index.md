@@ -4,6 +4,10 @@ date = 2024-11-07T10:03:00Z
 layout = "links"
 +++
 
+{{< hr "Podcasts" >}}
+
+{{< link-card link="https://www.youtube.com/@LaelFamilyArchives" name="The Lael Family Podcast" desc="Podcast episodes on different topics concerning God" >}}
+
 {{< hr "YouTube Channels" >}}
 
 {{< link-card link="https://youtube.com/@JosephPrince" name="Joseph Prince" desc="Reaching the world with the Gospel of Grace" >}}
